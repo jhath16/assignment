@@ -1,0 +1,13 @@
+p {
+  padding: 5px;
+  margin: 20px;
+  color: rgb(255, 71, 31);
+}
+
+.green-background {
+  background: green;
+}
+
+.inline-list li {
+  display:inline;
+}
